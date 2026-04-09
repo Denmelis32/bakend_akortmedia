@@ -5,6 +5,13 @@ import os
 from typing import Optional
 from datetime import timedelta
 
+# Загружаем переменные из .env файла ПЕРЕД чтением переменных окружения
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass  # python-dotenv не установлен
+
 class Config:
     """
     Конфигурация приложения
