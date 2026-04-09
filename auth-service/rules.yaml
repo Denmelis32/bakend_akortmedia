@@ -1,0 +1,12 @@
+- description: Allow HTTP for auth service
+  direction: INGRESS
+  ports: "8080"
+  protocol: TCP
+  v4_cidr_blocks:
+    - 0.0.0.0/0
+- description: Allow HTTP for feed service
+  direction: INGRESS
+  ports: "8081"
+  protocol: TCP
+  v4_cidr_blocks:
+    - 0.0.0.0/0

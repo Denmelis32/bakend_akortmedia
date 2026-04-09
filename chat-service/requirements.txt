@@ -1,0 +1,25 @@
+# YDB - актуальная стабильная версия
+ydb==3.24.0
+
+# JWT аутентификация
+pyjwt==2.8.0
+passlib==1.7.4
+bcrypt==4.1.2
+
+# Object Storage (S3)
+boto3==1.34.131
+botocore==1.34.131
+
+# Дата и время
+python-dateutil==2.9.0.post0
+pytz==2024.1
+aiohttp>=3.8.0
+# Для работы с asyncio
+anyio==4.4.0
+
+# Для валидации
+email-validator==2.1.1
+
+# 👇 ДОБАВИТЬ: для обработки изображений (сжатие, ресайз, превью)
+Pillow==10.1.0
+uvicorn[standard]==0.24.0

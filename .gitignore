@@ -1,0 +1,23 @@
+# Секреты и ключи — НИКОГДА не коммитить
+.env
+*.env
+sa-key.json
+ydb-key.json
+*-key.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+*.egg-info/
+
+# Логи
+logs/
+*.log
+*.pid
+
+# IDE
+.idea/
+.vscode/
