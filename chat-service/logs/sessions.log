@@ -1,0 +1,3 @@
+{"timestamp": "2026-04-09T04:42:44.804032", "event": "CONNECTING", "session_id": "chatuser2026_session_0_030106", "username": "chatuser2026", "client_id": 0}
+{"timestamp": "2026-04-09T04:42:44.867188", "event": "CONNECTED", "session_id": "chatuser2026_session_0_030106", "username": "chatuser2026", "auth_latency_ms": 2.9191970825195312}
+{"timestamp": "2026-04-09T04:43:01.217256", "event": "DISCONNECTED", "session_id": "chatuser2026_session_0_030106", "username": "chatuser2026", "duration_sec": 16.413224697113037, "pings": 8}

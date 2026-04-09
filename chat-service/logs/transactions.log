@@ -1,0 +1,18 @@
+{"timestamp": "2026-04-09T04:42:44.863881", "event": "AUTH_START", "tx_id": "24abddbd005c4b919e337be4edf007c6", "session_id": "chatuser2026_session_0_030106", "data": {"username": "chatuser2026"}}
+{"timestamp": "2026-04-09T04:42:44.867017", "event": "AUTH_SUCCESS", "tx_id": "24abddbd005c4b919e337be4edf007c6", "session_id": "chatuser2026_session_0_030106", "data": {"latency_ms": 2.9191970825195312}}
+{"timestamp": "2026-04-09T04:42:44.881185", "event": "PING_SEND", "tx_id": "5eda2feb7e17487689ee3da18e617e19", "session_id": "chatuser2026_session_0_030106", "data": {}}
+{"timestamp": "2026-04-09T04:42:45.186936", "event": "PONG_RECV", "tx_id": "5eda2feb7e17487689ee3da18e617e19", "session_id": "chatuser2026_session_0_030106", "data": {"latency_ms": 305.5434226989746}}
+{"timestamp": "2026-04-09T04:42:47.189348", "event": "PING_SEND", "tx_id": "31bcff8470a345668696d2297cb66604", "session_id": "chatuser2026_session_0_030106", "data": {}}
+{"timestamp": "2026-04-09T04:42:47.190446", "event": "PONG_RECV", "tx_id": "31bcff8470a345668696d2297cb66604", "session_id": "chatuser2026_session_0_030106", "data": {"latency_ms": 0.8943080902099609}}
+{"timestamp": "2026-04-09T04:42:49.192906", "event": "PING_SEND", "tx_id": "3d8469339ee54345ab3e39b488b392b4", "session_id": "chatuser2026_session_0_030106", "data": {}}
+{"timestamp": "2026-04-09T04:42:49.194330", "event": "PONG_RECV", "tx_id": "3d8469339ee54345ab3e39b488b392b4", "session_id": "chatuser2026_session_0_030106", "data": {"latency_ms": 1.1556148529052734}}
+{"timestamp": "2026-04-09T04:42:51.196716", "event": "PING_SEND", "tx_id": "a31686252074455ca1355d6391c702bb", "session_id": "chatuser2026_session_0_030106", "data": {}}
+{"timestamp": "2026-04-09T04:42:51.198073", "event": "PONG_RECV", "tx_id": "a31686252074455ca1355d6391c702bb", "session_id": "chatuser2026_session_0_030106", "data": {"latency_ms": 1.0707378387451172}}
+{"timestamp": "2026-04-09T04:42:53.200431", "event": "PING_SEND", "tx_id": "7c93fc17ed3e4f05878e0c7373988b52", "session_id": "chatuser2026_session_0_030106", "data": {}}
+{"timestamp": "2026-04-09T04:42:53.201793", "event": "PONG_RECV", "tx_id": "7c93fc17ed3e4f05878e0c7373988b52", "session_id": "chatuser2026_session_0_030106", "data": {"latency_ms": 1.1258125305175781}}
+{"timestamp": "2026-04-09T04:42:55.204314", "event": "PING_SEND", "tx_id": "bdc981d5f4c24816a04152d437ce2b98", "session_id": "chatuser2026_session_0_030106", "data": {}}
+{"timestamp": "2026-04-09T04:42:55.205886", "event": "PONG_RECV", "tx_id": "bdc981d5f4c24816a04152d437ce2b98", "session_id": "chatuser2026_session_0_030106", "data": {"latency_ms": 1.2311935424804688}}
+{"timestamp": "2026-04-09T04:42:57.208345", "event": "PING_SEND", "tx_id": "5974f3918e4b468793403b1c9d926786", "session_id": "chatuser2026_session_0_030106", "data": {}}
+{"timestamp": "2026-04-09T04:42:57.209695", "event": "PONG_RECV", "tx_id": "5974f3918e4b468793403b1c9d926786", "session_id": "chatuser2026_session_0_030106", "data": {"latency_ms": 1.093149185180664}}
+{"timestamp": "2026-04-09T04:42:59.212066", "event": "PING_SEND", "tx_id": "0e463265da8d44c0b37a861048f06739", "session_id": "chatuser2026_session_0_030106", "data": {}}
+{"timestamp": "2026-04-09T04:42:59.213636", "event": "PONG_RECV", "tx_id": "0e463265da8d44c0b37a861048f06739", "session_id": "chatuser2026_session_0_030106", "data": {"latency_ms": 1.2202262878417969}}
