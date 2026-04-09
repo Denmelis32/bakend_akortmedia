@@ -5145,6 +5145,28 @@ class MessageService:
             
             # ===== 2.7 Подготовка attachments =====
             all_attachments = attachments or []
+            
+            # Поддержка формата от Flutter: attachments может содержать объекты с photo_id
+            if all_attachments:
+                processed_attachments = []
+                for att in all_attachments:
+                    if isinstance(att, dict):
+                        # Если это объект с photo_id (формат Flutter)
+                        if att.get('photo_id'):
+                            processed_attachments.append({
+                                'photo_id': att['photo_id'],
+                                'type': att.get('type', 'photo'),
+                                'url': att.get('url'),
+                                'caption': att.get('caption', ''),
+                                'status': 'completed'  # Считаем загруженным
+                            })
+                        else:
+                            processed_attachments.append(att)
+                    else:
+                        processed_attachments.append(att)
+                all_attachments = processed_attachments
+            
+            # Добавляем фото из normalized_photo_ids (если есть)
             if normalized_photo_ids:
                 for photo_id in normalized_photo_ids:
                     all_attachments.append({
