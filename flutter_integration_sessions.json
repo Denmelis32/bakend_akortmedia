@@ -1,0 +1,25 @@
+[
+  {
+    "timestamp": "2026-04-09T05:38:25.529565",
+    "session_type": "WEBSOCKET",
+    "status": "CONNECTED",
+    "duration_sec": 0.061702,
+    "details": {
+      "session_id": "ws_1775713105467",
+      "server_response": {
+        "type": "connected",
+        "connection_id": "conn_104f6afa",
+        "user_id": "ac4da0ca-e593-4f78-b671-e4d523411f94"
+      }
+    }
+  },
+  {
+    "timestamp": "2026-04-09T05:38:30.842889",
+    "session_type": "WEBSOCKET",
+    "status": "DISCONNECTED",
+    "duration_sec": 5.375057,
+    "details": {
+      "reason": "test_completed"
+    }
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "type": "LOGIN_NO_TOKEN",
+    "username": "wstest17757105300",
+    "response": {
+      "data": {
+        "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkYmU1ZjYzYi03ZGMxLTQyNTMtODcwNi03ZDEzNDk4YmU0NjkiLCJyb2xlIjoidXNlciIsInZlcmlmaWVkIjpmYWxzZSwiZmlyc3RfbmFtZSI6IlRlc3R1c2VyIiwidXNlcm5hbWUiOiJ3c3Rlc3QxNzc1NzEwNTMwMCIsImV4cCI6MTc3NTcxMTQzMiwidHlwZSI6ImFjY2VzcyIsImp0aSI6IjA3OTU0NmExLTBjMzktNGQ2Ni1hNGU0LTk3OGM2YTgyOTFmOCIsImlhdCI6MTc3NTcxMDUzMn0._adddkBMXG465rzdnVS53xfzkX4fkQYUYXIvLpOjIuk",
+        "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkYmU1ZjYzYi03ZGMxLTQyNTMtODcwNi03ZDEzNDk4YmU0NjkiLCJleHAiOjE3NzgzMDI1MzIsInR5cGUiOiJyZWZyZXNoIiwianRpIjoiOGYwYTY4YTItNmFlZC00YTczLTgwMWQtMDY4MzUxMGFmOTgwIiwiaWF0IjoxNzc1NzEwNTMyfQ.yYpYxX7x_low7oGm2x_Lhbr4g6hK5anpJmNL8gsdces",
+        "token_type": "bearer",
+        "expires_in": 900,
+        "user_id": "dbe5f63b-7dc1-4253-8706-7d13498be469",
+        "role": "user",
+        "is_verified": false
+      }
+    },
+    "timestamp": "2026-04-09T04:55:32.122336"
+  },
+  {
+    "type": "LOGIN_NO_TOKEN",
+    "username": "wstest17757105301",
+    "response": {
+      "data": {
+        "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJiMDY1N2QyYi1jZDNlLTRkMDgtOWMwYi02NjRmNTcwMTRkOTMiLCJyb2xlIjoidXNlciIsInZlcmlmaWVkIjpmYWxzZSwiZmlyc3RfbmFtZSI6IlRlc3R1c2VyIiwidXNlcm5hbWUiOiJ3c3Rlc3QxNzc1NzEwNTMwMSIsImV4cCI6MTc3NTcxMTQzMywidHlwZSI6ImFjY2VzcyIsImp0aSI6IjFlMTMwNTc1LWVmY2ItNDA4Mi05NDg0LTcxNGRkNjUxZTkxMiIsImlhdCI6MTc3NTcxMDUzM30.MSw1CrbHStuWOXmbk9BcTy3eIHOX79o-3JLajjgvvbI",
+        "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJiMDY1N2QyYi1jZDNlLTRkMDgtOWMwYi02NjRmNTcwMTRkOTMiLCJleHAiOjE3NzgzMDI1MzMsInR5cGUiOiJyZWZyZXNoIiwianRpIjoiZDM4ZjZlMGMtYzhjYS00ODZkLWIxNjUtMmY5YjVmOGNlMTRlIiwiaWF0IjoxNzc1NzEwNTMzfQ.iTyAOSQ3O3Xljkj9XSQ2n_hy6Xi_UXddhqAP17L5Jds",
+        "token_type": "bearer",
+        "expires_in": 900,
+        "user_id": "b0657d2b-cd3e-4d08-9c0b-664f57014d93",
+        "role": "user",
+        "is_verified": false
+      }
+    },
+    "timestamp": "2026-04-09T04:55:33.429480"
+  },
+  {
+    "type": "LOGIN_NO_TOKEN",
+    "username": "wstest17757105302",
+    "response": {
+      "data": {
+        "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGQzZDk1Yy05ZmNhLTQzODMtOWVkYS04MjhjN2Q0MDcyZDAiLCJyb2xlIjoidXNlciIsInZlcmlmaWVkIjpmYWxzZSwiZmlyc3RfbmFtZSI6IlRlc3R1c2VyIiwidXNlcm5hbWUiOiJ3c3Rlc3QxNzc1NzEwNTMwMiIsImV4cCI6MTc3NTcxMTQzNCwidHlwZSI6ImFjY2VzcyIsImp0aSI6IjU1MzQ3MTUxLTUzMjQtNDEzZC04NWFiLTg3MWU5MzZhOTE4MCIsImlhdCI6MTc3NTcxMDUzNH0.0Lg8GSDQUpfzy7zjXshZXUfqzQjTjSmEWHOGjD1CBh0",
+        "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MGQzZDk1Yy05ZmNhLTQzODMtOWVkYS04MjhjN2Q0MDcyZDAiLCJleHAiOjE3NzgzMDI1MzQsInR5cGUiOiJyZWZyZXNoIiwianRpIjoiZjViMWY2NDctMjZiZC00YTEzLThiZmUtM2U2ZWZjNTliMGNjIiwiaWF0IjoxNzc1NzEwNTM0fQ.GPKDMlcBPQ--MBDJLUEJCy9fSQ9MPukA-pRs_Zwg5qY",
+        "token_type": "bearer",
+        "expires_in": 900,
+        "user_id": "50d3d95c-9fca-4383-9eda-828c7d4072d0",
+        "role": "user",
+        "is_verified": false
+      }
+    },
+    "timestamp": "2026-04-09T04:55:34.743512"
+  },
+  {
+    "type": "LOGIN_NO_TOKEN",
+    "username": "wstest17757105303",
+    "response": {
+      "data": {
+        "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmOGRmZDMwYi04MmVmLTRiOGMtYjY2Ny04Mzg2ZWU1NzgxYmIiLCJyb2xlIjoidXNlciIsInZlcmlmaWVkIjpmYWxzZSwiZmlyc3RfbmFtZSI6IlRlc3R1c2VyIiwidXNlcm5hbWUiOiJ3c3Rlc3QxNzc1NzEwNTMwMyIsImV4cCI6MTc3NTcxMTQzNiwidHlwZSI6ImFjY2VzcyIsImp0aSI6IjhlMGU1NDVmLWZlMWQtNDQ5MS05MDJiLTJjNzFhY2ZjMzc5YiIsImlhdCI6MTc3NTcxMDUzNn0.T3i-ni5N53YJo9IFilxP_PSHE53gOimY8ySWNgVyVyo",
+        "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJmOGRmZDMwYi04MmVmLTRiOGMtYjY2Ny04Mzg2ZWU1NzgxYmIiLCJleHAiOjE3NzgzMDI1MzYsInR5cGUiOiJyZWZyZXNoIiwianRpIjoiZjRmMDM2N2ItYjVlOS00YzdiLWFjMjctNDFkMDMzYmY2YmE5IiwiaWF0IjoxNzc1NzEwNTM2fQ.MZL2Ga8LhwWdMUhRDZrsgxS8wqq40cicww0KHP4uaZY",
+        "token_type": "bearer",
+        "expires_in": 900,
+        "user_id": "f8dfd30b-82ef-4b8c-b667-8386ee5781bb",
+        "role": "user",
+        "is_verified": false
+      }
+    },
+    "timestamp": "2026-04-09T04:55:36.164862"
+  },
+  {
+    "type": "LOGIN_NO_TOKEN",
+    "username": "wstest17757105304",
+    "response": {
+      "data": {
+        "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJiNTAzYWUxZC1iYzE0LTRlOTYtYTEyMi1jMmY2ODU5YzkxMGQiLCJyb2xlIjoidXNlciIsInZlcmlmaWVkIjpmYWxzZSwiZmlyc3RfbmFtZSI6IlRlc3R1c2VyIiwidXNlcm5hbWUiOiJ3c3Rlc3QxNzc1NzEwNTMwNCIsImV4cCI6MTc3NTcxMTQzNywidHlwZSI6ImFjY2VzcyIsImp0aSI6IjI0NWFmMTY1LTNjNjMtNGE5Mi1iNGNmLTI5MzM5ZWY5ODI5NCIsImlhdCI6MTc3NTcxMDUzN30.P6OYzNeAr1RU3jYNFVIEad9ZhFIvl-1GzlDXR_tkBKc",
+        "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJiNTAzYWUxZC1iYzE0LTRlOTYtYTEyMi1jMmY2ODU5YzkxMGQiLCJleHAiOjE3NzgzMDI1MzcsInR5cGUiOiJyZWZyZXNoIiwianRpIjoiMjlhYWJjMTYtMzI5Yy00ZTk0LWFlZWQtYzY5NDdkNWNmM2JmIiwiaWF0IjoxNzc1NzEwNTM3fQ.0-bPhjw-mMuNTM9qEfhS0n9Hss3D4gfyZ03ohQH6XGI",
+        "token_type": "bearer",
+        "expires_in": 900,
+        "user_id": "b503ae1d-bc14-4e96-a122-c2f6859c910d",
+        "role": "user",
+        "is_verified": false
+      }
+    },
+    "timestamp": "2026-04-09T04:55:37.483622"
+  }
+]

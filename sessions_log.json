@@ -1,0 +1,86 @@
+[
+  {
+    "timestamp": "2026-04-09T05:03:57.085236",
+    "user": "user2_test",
+    "session_data": {
+      "connection_id": "conn_80ce51ee",
+      "type": "connected",
+      "duration": "active"
+    }
+  },
+  {
+    "timestamp": "2026-04-09T05:03:57.143666",
+    "user": "chatuser2026",
+    "session_data": {
+      "connection_id": "conn_00c54660",
+      "type": "connected",
+      "duration": "active"
+    }
+  },
+  {
+    "timestamp": "2026-04-09T05:03:57.205732",
+    "user": "testus123111er",
+    "session_data": {
+      "connection_id": "conn_8a11a8c2",
+      "type": "connected",
+      "duration": "active"
+    }
+  },
+  {
+    "timestamp": "2026-04-09T05:03:57.288119",
+    "user": "tes12t_user_123",
+    "session_data": {
+      "connection_id": "conn_95f6278a",
+      "type": "connected",
+      "duration": "active"
+    }
+  },
+  {
+    "timestamp": "2026-04-09T05:03:59.304603",
+    "user": "user2_test",
+    "session_data": {
+      "connection_id": "conn_80ce51ee",
+      "type": "connected",
+      "duration_seconds": 2.22,
+      "messages_sent": 3,
+      "messages_received": 3,
+      "status": "completed"
+    }
+  },
+  {
+    "timestamp": "2026-04-09T05:03:59.304895",
+    "user": "chatuser2026",
+    "session_data": {
+      "connection_id": "conn_00c54660",
+      "type": "connected",
+      "duration_seconds": 2.16,
+      "messages_sent": 3,
+      "messages_received": 3,
+      "status": "completed"
+    }
+  },
+  {
+    "timestamp": "2026-04-09T05:03:59.500987",
+    "user": "testus123111er",
+    "session_data": {
+      "connection_id": "conn_8a11a8c2",
+      "type": "connected",
+      "duration_seconds": 2.3,
+      "messages_sent": 3,
+      "messages_received": 3,
+      "status": "completed"
+    }
+  },
+  {
+    "timestamp": "2026-04-09T05:03:59.806330",
+    "user": "tes12t_user_123",
+    "session_data": {
+      "connection_id": "conn_95f6278a",
+      "type": "connected",
+      "duration_seconds": 2.52,
+      "messages_sent": 3,
+      "messages_received": 3,
+      "status": "completed"
+    }
+  }
+]
