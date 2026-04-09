@@ -1,0 +1,16 @@
+2026-04-09 04:49:23,730 - INFO - ======================================================================
+2026-04-09 04:49:23,730 - INFO - НАГРУЗОЧНЫЙ ТЕСТ WEBSOCKET С REAL YDB И JWT
+2026-04-09 04:49:23,730 - INFO - ======================================================================
+2026-04-09 04:49:23,730 - INFO - 
+📋 ПОЛУЧЕНИЕ ТОКЕНОВ...
+2026-04-09 04:49:23,745 - INFO - 📝 tes12t_user_123: регистрация нового пользователя
+2026-04-09 04:49:23,747 - ERROR - ❌ tes12t_user_123: ошибка - {"error": "First name can only contain letters, spaces, and hyphens", "code": "validation_error"}
+2026-04-09 04:49:23,761 - INFO - 📝 testus123111er: регистрация нового пользователя
+2026-04-09 04:49:23,764 - ERROR - ❌ testus123111er: ошибка - {"error": "First name can only contain letters, spaces, and hyphens", "code": "validation_error"}
+2026-04-09 04:49:23,767 - INFO - 📝 user2_test: регистрация нового пользователя
+2026-04-09 04:49:23,783 - ERROR - ❌ user2_test: ошибка - {"error": "First name can only contain letters, spaces, and hyphens", "code": "validation_error"}
+2026-04-09 04:49:23,785 - INFO - 📝 chatuser2026: регистрация нового пользователя
+2026-04-09 04:49:23,788 - ERROR - ❌ chatuser2026: ошибка - {"error": "First name can only contain letters, spaces, and hyphens", "code": "validation_error"}
+2026-04-09 04:49:23,788 - INFO - 
+✅ Получено токенов: 0/4
+2026-04-09 04:49:23,788 - ERROR - ❌ Нет токенов для теста!

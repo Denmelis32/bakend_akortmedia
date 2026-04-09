@@ -1,0 +1,35 @@
+[
+  {
+    "timestamp": "2026-04-09T05:38:25.466950",
+    "type": "LOGIN",
+    "status": "SUCCESS",
+    "details": {
+      "user_id": "ac4da0ca-e593-4f78-b671-e4d523411f94",
+      "token_length": 388,
+      "elapsed_sec": 0.900779
+    }
+  },
+  {
+    "timestamp": "2026-04-09T05:38:25.529524",
+    "type": "WS_CONNECT",
+    "status": "SUCCESS",
+    "details": {
+      "session_id": "ws_1775713105467",
+      "connection_id": "conn_104f6afa",
+      "user_id": "ac4da0ca-e593-4f78-b671-e4d523411f94",
+      "elapsed_sec": 0.061702
+    }
+  },
+  {
+    "timestamp": "2026-04-09T05:38:25.834560",
+    "type": "WS_SUBSCRIBE",
+    "status": "SUCCESS",
+    "details": {
+      "chat_id": "test_chat_123",
+      "response": {
+        "type": "error",
+        "error": "Internal server error"
+      }
+    }
+  }
+]

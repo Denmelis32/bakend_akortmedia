@@ -1,0 +1,246 @@
+[
+  {
+    "timestamp": "2026-04-09T05:03:56.786606",
+    "event_type": "LOGIN",
+    "user": "user2_test",
+    "status": "SUCCESS",
+    "details": {
+      "status_code": 200,
+      "token_present": true
+    }
+  },
+  {
+    "timestamp": "2026-04-09T05:03:57.026837",
+    "event_type": "LOGIN",
+    "user": "chatuser2026",
+    "status": "SUCCESS",
+    "details": {
+      "status_code": 200,
+      "token_present": true
+    }
+  },
+  {
+    "timestamp": "2026-04-09T05:03:57.164392",
+    "event_type": "LOGIN",
+    "user": "testus123111er",
+    "status": "SUCCESS",
+    "details": {
+      "status_code": 200,
+      "token_present": true
+    }
+  },
+  {
+    "timestamp": "2026-04-09T05:03:57.262669",
+    "event_type": "LOGIN",
+    "user": "tes12t_user_123",
+    "status": "SUCCESS",
+    "details": {
+      "status_code": 200,
+      "token_present": true
+    }
+  },
+  {
+    "timestamp": "2026-04-09T05:03:57.386290",
+    "event_type": "MESSAGE_EXCHANGE",
+    "user": "user2_test",
+    "status": "SUCCESS",
+    "details": {
+      "sent": {
+        "type": "ping",
+        "message": "Ping from user2_test - 0",
+        "timestamp": 1775711037.085269
+      },
+      "received": {
+        "type": "pong"
+      },
+      "latency_ms": 301.04
+    }
+  },
+  {
+    "timestamp": "2026-04-09T05:03:57.690987",
+    "event_type": "MESSAGE_EXCHANGE",
+    "user": "chatuser2026",
+    "status": "SUCCESS",
+    "details": {
+      "sent": {
+        "type": "ping",
+        "message": "Ping from chatuser2026 - 0",
+        "timestamp": 1775711037.1436906
+      },
+      "received": {
+        "type": "pong"
+      },
+      "latency_ms": 547.31
+    }
+  },
+  {
+    "timestamp": "2026-04-09T05:03:57.995053",
+    "event_type": "MESSAGE_EXCHANGE",
+    "user": "testus123111er",
+    "status": "SUCCESS",
+    "details": {
+      "sent": {
+        "type": "ping",
+        "message": "Ping from testus123111er - 0",
+        "timestamp": 1775711037.2057543
+      },
+      "received": {
+        "type": "pong"
+      },
+      "latency_ms": 789.32
+    }
+  },
+  {
+    "timestamp": "2026-04-09T05:03:58.299459",
+    "event_type": "MESSAGE_EXCHANGE",
+    "user": "tes12t_user_123",
+    "status": "SUCCESS",
+    "details": {
+      "sent": {
+        "type": "ping",
+        "message": "Ping from tes12t_user_123 - 0",
+        "timestamp": 1775711037.28814
+      },
+      "received": {
+        "type": "pong"
+      },
+      "latency_ms": 1011.33
+    }
+  },
+  {
+    "timestamp": "2026-04-09T05:03:58.300049",
+    "event_type": "MESSAGE_EXCHANGE",
+    "user": "user2_test",
+    "status": "SUCCESS",
+    "details": {
+      "sent": {
+        "type": "ping",
+        "message": "Ping from user2_test - 1",
+        "timestamp": 1775711037.8874106
+      },
+      "received": {
+        "type": "pong"
+      },
+      "latency_ms": 607.41
+    }
+  },
+  {
+    "timestamp": "2026-04-09T05:03:58.300598",
+    "event_type": "MESSAGE_EXCHANGE",
+    "user": "chatuser2026",
+    "status": "SUCCESS",
+    "details": {
+      "sent": {
+        "type": "ping",
+        "message": "Ping from chatuser2026 - 1",
+        "timestamp": 1775711038.1914845
+      },
+      "received": {
+        "type": "pong"
+      },
+      "latency_ms": 578.47
+    }
+  },
+  {
+    "timestamp": "2026-04-09T05:03:58.497216",
+    "event_type": "MESSAGE_EXCHANGE",
+    "user": "testus123111er",
+    "status": "SUCCESS",
+    "details": {
+      "sent": {
+        "type": "ping",
+        "message": "Ping from testus123111er - 1",
+        "timestamp": 1775711038.4959924
+      },
+      "received": {
+        "type": "pong"
+      },
+      "latency_ms": 645.74
+    }
+  },
+  {
+    "timestamp": "2026-04-09T05:03:58.802941",
+    "event_type": "MESSAGE_EXCHANGE",
+    "user": "tes12t_user_123",
+    "status": "SUCCESS",
+    "details": {
+      "sent": {
+        "type": "ping",
+        "message": "Ping from tes12t_user_123 - 1",
+        "timestamp": 1775711038.8007207
+      },
+      "received": {
+        "type": "pong"
+      },
+      "latency_ms": 757.41
+    }
+  },
+  {
+    "timestamp": "2026-04-09T05:03:58.803082",
+    "event_type": "MESSAGE_EXCHANGE",
+    "user": "user2_test",
+    "status": "SUCCESS",
+    "details": {
+      "sent": {
+        "type": "ping",
+        "message": "Ping from user2_test - 2",
+        "timestamp": 1775711038.801139
+      },
+      "received": {
+        "type": "pong"
+      },
+      "latency_ms": 572.62
+    }
+  },
+  {
+    "timestamp": "2026-04-09T05:03:58.803488",
+    "event_type": "MESSAGE_EXCHANGE",
+    "user": "chatuser2026",
+    "status": "SUCCESS",
+    "details": {
+      "sent": {
+        "type": "ping",
+        "message": "Ping from chatuser2026 - 2",
+        "timestamp": 1775711038.8024845
+      },
+      "received": {
+        "type": "pong"
+      },
+      "latency_ms": 553.27
+    }
+  },
+  {
+    "timestamp": "2026-04-09T05:03:58.999592",
+    "event_type": "MESSAGE_EXCHANGE",
+    "user": "testus123111er",
+    "status": "SUCCESS",
+    "details": {
+      "sent": {
+        "type": "ping",
+        "message": "Ping from testus123111er - 2",
+        "timestamp": 1775711038.997936
+      },
+      "received": {
+        "type": "pong"
+      },
+      "latency_ms": 597.95
+    }
+  },
+  {
+    "timestamp": "2026-04-09T05:03:59.305713",
+    "event_type": "MESSAGE_EXCHANGE",
+    "user": "tes12t_user_123",
+    "status": "SUCCESS",
+    "details": {
+      "sent": {
+        "type": "ping",
+        "message": "Ping from tes12t_user_123 - 2",
+        "timestamp": 1775711039.3041754
+      },
+      "received": {
+        "type": "pong"
+      },
+      "latency_ms": 672.53
+    }
+  }
+]
