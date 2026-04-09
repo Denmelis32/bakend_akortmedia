@@ -12,6 +12,13 @@ from typing import Dict, Any, Optional, List
 from datetime import datetime
 from contextlib import asynccontextmanager
 
+# Загружаем переменные из .env файла
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass  # python-dotenv не установлен, используем переменные окружения системы
+
 # FastAPI
 from fastapi import FastAPI, HTTPException, Request, WebSocket, WebSocketDisconnect, Depends
 from fastapi.middleware.cors import CORSMiddleware
